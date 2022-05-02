@@ -1,5 +1,5 @@
-const command = `
+const commands = `
 /star - приветсвие и перезапуск бота
 /help - помощь
 `
-module.exports.command = command
+module.exports.commands = commands
